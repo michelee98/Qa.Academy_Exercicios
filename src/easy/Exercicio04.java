@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Exercicio04 {
 
-    public static void main(String[] args) {
+    public void dobroDigitado(){
         int numeroDigitado, resultado;
         String numeroDigitadoUsuario = JOptionPane.showInputDialog("Digite um numero");
         numeroDigitado = Integer.parseInt(numeroDigitadoUsuario);

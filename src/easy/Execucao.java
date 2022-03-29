@@ -5,11 +5,13 @@ public class Execucao {
 
         
         Exercicio02 teste = new Exercicio02();
-        teste.retornaPalavraDigitada();
-
-
+        //teste.retornaPalavraDigitada();
+        
         Exercicio03 ex3 = new Exercicio03();
-        ex3.retornaNumeroDigitado();
+        //ex3.retornaNumeroDigitado();
+
+        Exercicio04 ex04 = new Exercicio04();
+        ex04.dobroDigitado();
 
 
 
