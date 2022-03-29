@@ -11,7 +11,10 @@ public class Execucao {
         //ex3.retornaNumeroDigitado();
 
         Exercicio04 ex04 = new Exercicio04();
-        ex04.dobroDigitado();
+        //ex04.dobroDigitado();
+
+        Exercicio05 ex05 = new Exercicio05();
+        ex05.somaDeTresNumeros();
 
 
 

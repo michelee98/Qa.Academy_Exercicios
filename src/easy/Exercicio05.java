@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Exercicio05 {// inicio classe
 
-    public static void main(String[] args) {
+    public void somaDeTresNumeros(){
         int primeiroNumero, segundoNumero, terceiroNumero, soma, subtracao, multiplicacao,media;
         String primeiroDigitadoStg = JOptionPane.showInputDialog("Digite o primeiro número");
         String segundoDigitadoStg = JOptionPane.showInputDialog("Digite o segundo número");
