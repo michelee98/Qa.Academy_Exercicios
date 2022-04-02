@@ -14,10 +14,10 @@ public class Execucao {
         //ex3.retornaNumeroDigitado("10", "20");
 
         Exercicio04 ex04 = new Exercicio04();
-        System.out.println(ex04.dobroDigitado(20));
+        //System.out.println(ex04.dobroDigitado(20));
 
         Exercicio05 ex05 = new Exercicio05();
-        //ex05.somaDeTresNumeros();
+        System.out.println(ex05.somaDeTresNumeros(10, 20, 30));
 
         Exercicio06 ex06 = new Exercicio06();
         //ex06.nota1Rm();
