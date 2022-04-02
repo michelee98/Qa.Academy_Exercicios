@@ -26,7 +26,10 @@ public class Execucao {
         //ex08.doubleSalario();
 
         Exercicio09 ex09 = new Exercicio09();
-        ex09.numeroDigitado();
+        //ex09.numeroDigitado();
+
+        Exercicio10 ex10 = new Exercicio10();
+        ex10.valorInvestimento();
 
 
 
