@@ -23,7 +23,7 @@ public class Execucao {
         System.out.println(ex06.verificarAprovacao(10, 4));
 
         Exercicio07 ex07 = new Exercicio07();
-        //ex07.salarioInss();
+        System.out.println(ex07.calcularInss(1000));
 
         Exercicio08 ex08 = new Exercicio08();
         //ex08.doubleSalario();
