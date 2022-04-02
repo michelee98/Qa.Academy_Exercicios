@@ -20,13 +20,13 @@ public class Execucao {
         //System.out.println(ex05.somaDeTresNumeros(10, 20, 30));
 
         Exercicio06 ex06 = new Exercicio06();
-        System.out.println(ex06.verificarAprovacao(10, 4));
+        //System.out.println(ex06.verificarAprovacao(10, 4));
 
         Exercicio07 ex07 = new Exercicio07();
-        System.out.println(ex07.calcularInss(1000));
+        //System.out.println(ex07.calcularInss(1000));
 
         Exercicio08 ex08 = new Exercicio08();
-        //ex08.doubleSalario();
+        System.out.println(ex08.calcularImpostoDeRenda(10000));
 
         Exercicio09 ex09 = new Exercicio09();
         //ex09.numeroDigitado();
@@ -42,6 +42,8 @@ public class Execucao {
 
         Exercicio02 ex02 = new Exercicio02();
         //ex02.tempoInvestido();
+
+
 
 
 
