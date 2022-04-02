@@ -23,7 +23,12 @@ public class Execucao {
         //ex07.salarioInss();
 
         Exercicio08 ex08 = new Exercicio08();
-        ex08.doubleSalario();
+        //ex08.doubleSalario();
+
+        Exercicio09 ex09 = new Exercicio09();
+        ex09.numeroDigitado();
+
+
 
 
 
