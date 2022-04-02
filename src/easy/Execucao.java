@@ -14,7 +14,10 @@ public class Execucao {
         //ex04.dobroDigitado();
 
         Exercicio05 ex05 = new Exercicio05();
-        ex05.somaDeTresNumeros();
+        //ex05.somaDeTresNumeros();
+
+        Exercicio06 ex06 = new Exercicio06
+        ex06.nota1RM();
 
 
 

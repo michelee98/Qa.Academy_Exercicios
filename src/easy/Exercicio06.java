@@ -3,7 +3,7 @@ package easy;
 import javax.swing.JOptionPane;
 
 public class Exercicio06 {
-    public static void main(String[] args) {
+    public void nota1Rm(){
         double nota1, nota2, resultado;
         String nota1RM, nota2RM;                   
         nota1RM = JOptionPane.showInputDialog("Por favor, digite a primeira nota: ");
