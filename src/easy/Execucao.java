@@ -20,7 +20,10 @@ public class Execucao {
         //ex06.nota1Rm();
 
         Exercicio07 ex07 = new Exercicio07();
-        ex07.salarioInss();
+        //ex07.salarioInss();
+
+        Exercicio08 ex08 = new Exercicio08();
+        ex08.doubleSalario();
 
 
 
