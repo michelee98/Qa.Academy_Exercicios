@@ -1,7 +1,7 @@
 package medium;
 
 public class Exercicio01 {
-    public static void main(String[] args) {
+    public void impaPar(){
         int i = 0;
 
         while(i<=100) {

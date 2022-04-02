@@ -1,5 +1,7 @@
 package easy;
 
+import medium.Exercicio01;
+
 public class Execucao {
     public static void main(String[] args) {
 
@@ -32,7 +34,10 @@ public class Execucao {
         //ex10.valorInvestimento();
 
         Exercicio11 ex11 = new Exercicio11();
-        ex11.totalSomado();
+        //ex11.totalSomado();
+
+        Exercicio01 ex01 = new Exercicio01();
+        ex01.impaPar();
 
 
 
