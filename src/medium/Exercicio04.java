@@ -1,7 +1,7 @@
 package medium;
 
 public class Exercicio04 {
-    public static void main(String[] args) {
+    public void resultadoMultiplicacao() {
         int i = 1, resultadoMultiplicacao = 1;
         while(i<=1000){
         resultadoMultiplicacao = resultadoMultiplicacao * i; 

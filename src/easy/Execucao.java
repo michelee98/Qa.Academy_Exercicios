@@ -3,6 +3,7 @@ package easy;
 import medium.Exercicio01;
 import medium.Exercicio02;
 import medium.Exercicio03;
+import medium.Exercicio04;
 
 public class Execucao {
     public static void main(String[] args) {
@@ -45,7 +46,11 @@ public class Execucao {
         //ex02.tempoInvestido();
 
         Exercicio03 ex03 = new Exercicio03();
-        ex03.intSoma();
+        //ex03.intSoma();
+
+        Exercicio04 ex04Exercicio04= new Exercicio04();
+        ex04.resultadoMultiplicacao();
+
 
 
 
