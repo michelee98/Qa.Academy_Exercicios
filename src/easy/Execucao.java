@@ -17,10 +17,10 @@ public class Execucao {
         //System.out.println(ex04.dobroDigitado(20));
 
         Exercicio05 ex05 = new Exercicio05();
-        System.out.println(ex05.somaDeTresNumeros(10, 20, 30));
+        //System.out.println(ex05.somaDeTresNumeros(10, 20, 30));
 
         Exercicio06 ex06 = new Exercicio06();
-        //ex06.nota1Rm();
+        System.out.println(ex06.verificarAprovacao(10, 4));
 
         Exercicio07 ex07 = new Exercicio07();
         //ex07.salarioInss();
