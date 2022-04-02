@@ -1,7 +1,7 @@
 package easy;
 
 public class Exercicio07 {
-    public static void main(String[] args) {
+    public void salarioInss(){
         Double salario, inss = 0.0; // declaraçao das variaveis 
         String salarioStg = "3000"; // Leitura da digitação
         salario = Double.parseDouble(salarioStg);// Conversão e atribuição na variavel salario

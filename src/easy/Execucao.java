@@ -16,8 +16,11 @@ public class Execucao {
         Exercicio05 ex05 = new Exercicio05();
         //ex05.somaDeTresNumeros();
 
-        Exercicio06 ex06 = new Exercicio06
-        ex06.nota1RM();
+        Exercicio06 ex06 = new Exercicio06();
+        //ex06.nota1Rm();
+
+        Exercicio07 ex07 = new Exercicio07();
+        ex07.salarioInss();
 
 
 
