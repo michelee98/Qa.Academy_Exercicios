@@ -29,7 +29,10 @@ public class Execucao {
         //ex09.numeroDigitado();
 
         Exercicio10 ex10 = new Exercicio10();
-        ex10.valorInvestimento();
+        //ex10.valorInvestimento();
+
+        Exercicio11 ex11 = new Exercicio11();
+        ex11.totalSomado();
 
 
 
