@@ -1,7 +1,7 @@
 package medium;
 
 public class Exercicio03 {
-    public static void main(String[] args) {
+    public void intSoma(){
         int i = 0,soma = 0;
         while(i<=1000){
         soma = soma+i;

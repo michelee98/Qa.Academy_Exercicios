@@ -2,6 +2,7 @@ package easy;
 
 import medium.Exercicio01;
 import medium.Exercicio02;
+import medium.Exercicio03;
 
 public class Execucao {
     public static void main(String[] args) {
@@ -26,7 +27,7 @@ public class Execucao {
         //System.out.println(ex07.calcularInss(1000));
 
         Exercicio08 ex08 = new Exercicio08();
-        System.out.println(ex08.calcularImpostoDeRenda(10000));
+        //System.out.println(ex08.calcularImpostoDeRenda(10000));
 
         Exercicio09 ex09 = new Exercicio09();
         //ex09.numeroDigitado();
@@ -43,6 +44,8 @@ public class Execucao {
         Exercicio02 ex02 = new Exercicio02();
         //ex02.tempoInvestido();
 
+        Exercicio03 ex03 = new Exercicio03();
+        ex03.intSoma();
 
 
 
