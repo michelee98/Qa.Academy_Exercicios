@@ -11,7 +11,7 @@ public class Execucao {
         //teste.retornaPalavraDigitada();
         
         Exercicio03 ex3 = new Exercicio03();
-        //ex3.retornaNumeroDigitado();
+        ex3.retornaNumeroDigitado("10", "20");
 
         Exercicio04 ex04 = new Exercicio04();
         //ex04.dobroDigitado();
@@ -41,7 +41,7 @@ public class Execucao {
         //ex01.impaPar();
 
         Exercicio02 ex02 = new Exercicio02();
-        ex02.tempoInvestido();
+        //ex02.tempoInvestido();
 
 
 
