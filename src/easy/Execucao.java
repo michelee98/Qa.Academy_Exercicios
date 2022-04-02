@@ -11,10 +11,10 @@ public class Execucao {
         //teste.retornaPalavraDigitada();
         
         Exercicio03 ex3 = new Exercicio03();
-        ex3.retornaNumeroDigitado("10", "20");
+        //ex3.retornaNumeroDigitado("10", "20");
 
         Exercicio04 ex04 = new Exercicio04();
-        //ex04.dobroDigitado();
+        System.out.println(ex04.dobroDigitado(20));
 
         Exercicio05 ex05 = new Exercicio05();
         //ex05.somaDeTresNumeros();
